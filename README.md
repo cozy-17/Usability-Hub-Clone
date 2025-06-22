@@ -18,13 +18,6 @@ The code may **not be written in the most efficient or optimized way**, as this 
 
 
 
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3 (custom, no frameworks)
-- Media Queries
-
-
 
 
 ## 📌 Notes
