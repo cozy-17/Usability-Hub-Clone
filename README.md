@@ -29,13 +29,3 @@ The code may **not be written in the most efficient or optimized way**, as this 
 - Future updates may refine the structure, efficiency, and responsiveness.
 
 
-## 📂 Folder Structure
-
-```bash
-usabilityhub-clone/
-├── assets/
-│   └── (images, logos, etc.)
-├── index.html
-├── style.css
-├── media-quries.css
-└── README.md
