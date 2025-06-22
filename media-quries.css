@@ -234,6 +234,7 @@
 
     .demand-list{
         margin-left: 30px;
+        flex-direction: column;
     }
     
     .comp-sect div > h2{
