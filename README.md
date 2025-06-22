@@ -26,6 +26,6 @@ The code may **not be written in the most efficient or optimized way**, as this 
 - This is a **practice project** meant to enhance frontend development skills.
 - The clone is **static** and not connected to any backend services.
 - Focus was on layout and visual fidelity rather than pixel-perfect accuracy.
-- Future updates may refine the structure, efficiency, and responsiveness.
+- Future updates may refine the structure, efficiency, and responsiveness.(maybe)
 
 
