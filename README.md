@@ -7,6 +7,7 @@ This is a frontend clone of the **UsabilityHub** homepage.
 ## 📱 Responsiveness
 
 Media queries have been implemented for major screen widths to ensure the design adapts to desktops, tablets, and mobile devices.
+I know the fonts are big in Mobile Devices But this practice project So maybe i will update that.
 
 ⚠️ Some layout or responsiveness issues might exist, especially on uncommon screen sizes. These will be improved in future updates.
 
